@@ -1,0 +1,6 @@
+{
+  "name": "Medar Studio × Neoclub Remix",
+  "description": "Remix minimaliste de neoclub.fr par Medar Studio. Typographie audacieuse, esthétique noir-blanc-rouge, animations fluides et interactions dynamiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
